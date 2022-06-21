@@ -1,4 +1,4 @@
-<h1>[Tutorial] Como Instalar o packet tracer 8.1 no ubuntu 20.04</h1>
+<h1>[Tutorial] Como Instalar o packet tracer 8.1 no ubuntu 20.04 🖥🖱</h1>
 
 <h2>[Requisitos]</h2>
 <ol>
@@ -7,7 +7,7 @@
     <p>Caso o link acima não funcione acesse por esse: <a href="https://www.netacad.com/portal/resources/packet-tracer">Pagina de Downloads (Clique Aqui)</a></p>
 </ol>
 
-<h2>[Vamos para Prática]</h2>
+<h2>[Vamos para Prática]🤝</h2>
 <p>Abrir o terminal no ubuntu para executar os comandos baixo.</p>
 <ul>
     <li>Execute os comandos basicos para atualização do sistema.</li>
